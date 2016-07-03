@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-1234
-aaaaqqqq<<<<<<< HEAD
-=======
 my name is fahad
-qqqq<<<<<<< HEAD
->>>>>>> new_branch
-bbbHello world 23
-=======
-aaaHello world 23
->>>>>>> b68c78d1efc2c69957af014d5ec913226264156d
